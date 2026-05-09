@@ -1,16 +1,29 @@
-## Hi there 👋
+# David Budeli
 
-<!--
-**DavidBudeli/DavidBudeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de software focado em ecossistemas digitais, IA e automação.
 
-Here are some ideas to get you started:
+Founder da Hyper Galaxy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- Next.js
+- TypeScript
+- Node.js
+- React
+- PostgreSQL
+- Docker
+- IA / LLMs
+- Automação
+
+## Ecossistema
+
+- Hyper Galaxy
+- HyperAG
+- HyperPag
+- Sistemas de automação
+- Infraestrutura digital premium
+
+## Contato
+
+- Site: https://davidbudeli.com
+- Instagram: https://instagram.com/davidbudeli
