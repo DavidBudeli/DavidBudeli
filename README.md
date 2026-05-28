@@ -1,43 +1,55 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=330&color=0:020617,35:0B1120,70:172554,100:581C87&text=DAVID%20BUDELI&fontSize=62&fontColor=FFFFFF&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=Founder%20of%20Hyper%20Galaxy%20%7C%20AI%20Infrastructure%20%7C%20Automation%20%7C%20Digital%20Ecosystems&descSize=17&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=340&color=0:000000,35:020617,70:111827,100:1E1B4B&text=DAVID%20BUDELI&fontSize=64&fontColor=FFE81F&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=Software%20Engineer%20%7C%20Founder%20of%20Hyper%20Galaxy%20%7C%20AI%20Infrastructure%20%7C%20Automation&descSize=16&descAlignY=68"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=1000&lines=Initializing+David+Budeli+Command+Center...;Architecting+AI+ecosystems+and+automation+systems;Building+Hyper+Galaxy+digital+infrastructure;HyperAG+%E2%80%A2+HyperPag+%E2%80%A2+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2600&pause=700&color=FFE81F&center=true&vCenter=true&width=1000&lines=A+digital+architect+from+another+galaxy.;Building+AI+systems+across+the+Hyper+Galaxy.;Engineering+automation%2C+infrastructure+and+SaaS+products.;The+code+is+strong+with+this+one." />
 
 </div>
 
 <br/>
 
-<table width="100%">
+```txt
+╔══════════════════════════════════════════════════════════════╗
+║                    HYPER GALAXY COMMAND LOG                 ║
+╠══════════════════════════════════════════════════════════════╣
+║ PILOT: David Budeli                                         ║
+║ ROLE: Software Engineer / Founder                           ║
+║ CORE: AI Infrastructure • Automation • Digital Ecosystems    ║
+║ STATUS: Systems online                                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## ⚔️ DIGITAL IDENTITY
+
+<table>
 <tr>
 <td width="50%">
 
-## ⚡ DIGITAL IDENTITY
-
 ```yaml
 name: David Budeli
-role: Software Engineer
-company: Hyper Galaxy
-focus:
-  - AI Infrastructure
-  - Automation Systems
-  - SaaS Architecture
-  - Digital Ecosystems
-status: Building
-location: Brazil
+class: Software Engineer
+rank: Founder
+base: Hyper Galaxy
+mission:
+  - build intelligent systems
+  - automate digital operations
+  - architect scalable products
+  - create premium infrastructures
 ```
 
 </td>
 <td width="50%">
 
-## 🛰️ SYSTEM STATUS
-
 ```bash
+$ scan galaxy
+
 HYPER GALAXY CORE ........ ONLINE
 AI INFRASTRUCTURE ........ ACTIVE
-AUTOMATION PIPELINES ..... RUNNING
-HYPERAG SYSTEMS .......... BUILDING
-HYPERPAG ARCHITECTURE .... IN DEVELOPMENT
+AUTOMATION SYSTEMS ....... RUNNING
+HYPERAG SECTOR ........... BUILDING
+HYPERPAG PROTOCOL ........ IN DEVELOPMENT
 ```
 
 </td>
@@ -48,56 +60,56 @@ HYPERPAG ARCHITECTURE .... IN DEVELOPMENT
 
 <div align="center">
 
-## ARCHITECTING INTELLIGENT DIGITAL ECOSYSTEMS
+## 🌌 ARCHITECTING SYSTEMS ACROSS THE DIGITAL GALAXY
 
-Software engineer focused on building scalable systems, AI workflows, automation pipelines, SaaS products and premium digital infrastructure.
+Software engineer focused on AI infrastructure, automation systems, SaaS architecture and scalable digital ecosystems.
 
-Founder of **Hyper Galaxy**.
+Founder of **Hyper Galaxy** — a technology ecosystem built to create products, systems and intelligent infrastructure.
 
 </div>
 
 ---
 
-## 🌌 ECOSYSTEM MAP
+## 🪐 GALACTIC ECOSYSTEM MAP
 
 ```txt
-                          DAVID BUDELI
-                               │
-                    Founder / Software Engineer
-                               │
-                         HYPER GALAXY
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-     HyperAG                HyperPag              AI Systems
- Marketing & Growth     Payment Architecture     Automation Core
+                         DAVID BUDELI
+                              │
+                    Founder / Systems Architect
+                              │
+                        HYPER GALAXY
+                              │
+        ┌─────────────────────┼─────────────────────┐
+        │                     │                     │
+   HYPERAG SECTOR       HYPERPAG PROTOCOL       AI AUTOMATION CORE
+   Growth Systems       Payment Architecture     Intelligent Pipelines
 ```
 
 ---
 
-## 🚀 ACTIVE PROJECTS
+## 🚀 ACTIVE SECTORS
 
 <table>
 <tr>
 <td width="33%">
 
-### 🌌 Hyper Galaxy
+### 🪐 Hyper Galaxy
 
-Digital ecosystem for software, AI, automation and infrastructure.
+Main technology ecosystem for software, AI, automation and digital infrastructure.
 
 </td>
 <td width="33%">
 
-### 📈 HyperAG
+### 📡 HyperAG
 
-Marketing infrastructure, websites, funnels and business automation.
+Marketing systems, websites, funnels, growth infrastructure and automation.
 
 </td>
 <td width="33%">
 
 ### 💳 HyperPag
 
-Payment systems, financial architecture and trusted digital transactions.
+Payment architecture, financial systems and trusted digital transaction layers.
 
 </td>
 </tr>
@@ -105,7 +117,7 @@ Payment systems, financial architecture and trusted digital transactions.
 
 ---
 
-## 🧬 TECHNOLOGY CORE
+## 🧬 TECHNOLOGY FORCE
 
 <div align="center">
 
@@ -117,34 +129,41 @@ Payment systems, financial architecture and trusted digital transactions.
 
 ```ts
 const davidBudeli = {
-  identity: "Software Engineer & Founder",
-  ecosystem: "Hyper Galaxy",
-  mission: "Architecting intelligent digital ecosystems",
+  title: "Software Engineer & Founder",
+  universe: "Hyper Galaxy",
+  archetype: "Digital Systems Architect",
+
+  force: [
+    "AI Infrastructure",
+    "Automation Pipelines",
+    "SaaS Architecture",
+    "Payment Systems",
+    "Digital Ecosystems"
+  ],
 
   stack: {
     frontend: ["Next.js", "React", "TypeScript"],
     backend: ["Node.js", "PostgreSQL", "APIs"],
     infrastructure: ["Docker", "Linux", "Vercel"],
-    ai: ["LLMs", "AI Agents", "Automation Pipelines"],
-  },
-
-  products: ["Hyper Galaxy", "HyperAG", "HyperPag"],
+    ai: ["LLMs", "AI Agents", "Automation"]
+  }
 };
 ```
 
 ---
 
-## 🧠 AI / AUTOMATION / INFRASTRUCTURE
+## 🛰️ COMMAND TERMINAL
 
 ```bash
-$ initialize ecosystem
+$ initialize hyper-galaxy
 
-> connecting ai pipelines...
-> deploying automation systems...
-> mapping digital products...
-> preparing scalable infrastructure...
+> awakening digital core...
+> connecting AI pipelines...
+> deploying automation sectors...
+> calibrating payment protocols...
+> syncing founder identity...
 
-SYSTEM READY.
+THE GALAXY IS ONLINE.
 ```
 
 ---
@@ -153,19 +172,19 @@ SYSTEM READY.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DavidBudeli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DavidBudeli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFE81F&icon_color=38BDF8&text_color=E5E7EB" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBudeli&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBudeli&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FFE81F&text_color=E5E7EB" />
 
 </div>
 
 ---
 
-## 🌐 CONNECT
+## 🌐 TRANSMISSION CHANNELS
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-davidbudeli.com-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://davidbudeli.com)
+[![Website](https://img.shields.io/badge/Website-davidbudeli.com-FFE81F?style=for-the-badge&logo=vercel&logoColor=black)](https://davidbudeli.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@davidbudeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidbudeli)
 [![GitHub](https://img.shields.io/badge/GitHub-DavidBudeli-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidBudeli)
 
@@ -175,6 +194,6 @@ SYSTEM READY.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:581C87,50:172554,100:020617&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:1E1B4B,100:020617&section=footer"/>
 
 </div>
