@@ -1,9 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-light.svg">
-  <img width="100%" alt="David Budeli — Software Engineer" src="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-light.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/banner-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/banner-light.svg"
+  >
+  <img
+    width="100%"
+    alt="David Budeli — Software Engineer"
+    src="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/banner-light.svg"
+  >
 </picture>
-
 <div align="center">
 
 ### Software Engineer · Tech Entrepreneur · Full-Stack Developer
