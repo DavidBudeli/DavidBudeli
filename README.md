@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-light.png">
-  <img width="100%" alt="David Budeli — Software Engineer" src="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-light.svg">
+  <img width="100%" alt="David Budeli — Software Engineer" src="https://raw.githubusercontent.com/DavidBudeli/DavidBudeli/main/assets/banner-light.svg">
 </picture>
 
 <div align="center">
